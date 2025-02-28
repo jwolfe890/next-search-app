@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://next-search-app-theta.vercel.app/sitemap.xml
