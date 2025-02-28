@@ -4,6 +4,9 @@ export default function Home() {
   return (
     <div>
       <h1>Home Page</h1>
+      <Link href="/sets/1950bowman">
+        View 1950 Bowman Set
+      </Link>
       <Link href="/about">Go to About Page</Link>
     </div>
   );
