@@ -35,6 +35,12 @@ a {
   text-decoration: none;
 }
 
+a {
+  display: block; /* Ensures each link is on its own line */
+  color: orange;
+  text-decoration: none; /* Optional: Removes underline */
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
