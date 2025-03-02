@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <p>
-      Welcome to [Website Name], your premier destination for vintage sports cards! Whether you're a seasoned collector or just starting out, we specialize in rare and iconic trading cards from baseball, football, basketball, and more. Our carefully curated selection features everything from classic rookie cards to hard-to-find gems, ensuring you can add history to your collection. With a passion for preserving the legacy of sports, we provide expert insights, fair pricing, and a seamless shopping experience. Explore our collection today and rediscover the thrill of vintage sports card collecting with [Website Name]!
+        Welcome to [Website Name], your premier destination for vintage sports cards! Whether you're a seasoned collector or just starting out, we specialize in rare and iconic trading cards from baseball, football, basketball, and more. Our carefully curated selection features everything from classic rookie cards to hard-to-find gems, ensuring you can add history to your collection. With a passion for preserving the legacy of sports, we provide expert insights, fair pricing, and a seamless shopping experience. Explore our collection today and rediscover the thrill of vintage sports card collecting with [Website Name]!
       </p>
       <h1>Home Page</h1>
       <Link href="/sets/1950bowman">
