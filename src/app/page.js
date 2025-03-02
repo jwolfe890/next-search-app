@@ -9,7 +9,7 @@ export const metadata = {
     type: 'website',
   },
   other: {
-    'addsearch-custom-field': 'player=Sammy Baught',
+    'addsearch-custom-field': 'player=Sammy Baugh',
   },
 };
 
