@@ -1,5 +1,18 @@
 import Link from "next/link";
 
+export const metadata = {
+  title: 'My Custom Page Title',
+  description: 'This is a unique description for my page.',
+  openGraph: {
+    title: 'My Custom Page Title',
+    description: 'This is a unique description for my page.',
+    type: 'website',
+  },
+  other: {
+    'addsearch-custom-field': 'player=Sammy Baught',
+  },
+};
+
 export default function Home() {
   return (
     <div>

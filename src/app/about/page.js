@@ -9,7 +9,7 @@ export const metadata = {
     type: 'website',
   },
   other: {
-    'addsearch-custom-field': 'player=Sammy Baugh',
+    'addsearch-custom-field': 'player=Sammy Baugh,set=1950bowman',
   },
 };
 
