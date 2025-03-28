@@ -9,8 +9,10 @@ export const metadata = {
     type: 'website',
   },
   other: {
-    'addsearch-custom-field': 'player=Sammy Baugh;set=1950bowman;rarity=high',
-    'data-type': 'text',
+    'addsearch-custom-field': {
+      value: 'player=Sammy Baugh;set=1950bowman;rarity=high',
+      dataType: 'text', // This adds data-type="text" to the same tag
+    },
   },
 };
 

@@ -9,8 +9,10 @@ export const metadata = {
     type: 'website',
   },
   other: {
-    'addsearch-custom-field': 'player=Sammy Baugh',
-    'data-type': 'text',
+    'addsearch-custom-field': {
+      value: 'player=Sammy Baugh',
+      dataType: 'text', // This adds data-type="text" to the same tag
+    },
   },
 };
 
