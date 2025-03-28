@@ -10,6 +10,7 @@ export const metadata = {
   },
   other: {
     'addsearch-custom-field': 'player=Sammy Baugh',
+    'data-type': 'text',
   },
 };
 

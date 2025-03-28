@@ -10,6 +10,7 @@ export const metadata = {
   },
   other: {
     'addsearch-custom-field': 'player=Sammy Baugh;set=1950bowman;rarity=high',
+    'data-type': 'text',
   },
 };
 
